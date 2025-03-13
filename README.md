@@ -7,21 +7,43 @@ Fitness Calorie Tracking App, kullanıcıların günlük kalori alımını ve eg
 ## 📸 Ekran Görüntüleri
 
 ### 🔹 Giriş & Profil  
-<img src="screenshots/login.png" width="250"/>  
-<img src="screenshots/register.png" width="250"/>  
-<img src="screenshots/profile.png" width="250"/>  
+<div align="center">
+  <img src="screenshots/login.png" width="250"/>
+  <img src="screenshots/register.png" width="250"/>
+</div>  
+<br>
+
+<div align="center">
+  <img src="screenshots/profile.png" width="250"/>
+</div>
+
+---
 
 ### 🔹 Kullanıcı Bilgileri Adımları (GIF)  
-<img src="screenshots/steps.gif" width="250"/>  
+<div align="center">
+  <img src="screenshots/steps.gif" width="250"/>
+</div>
+
+---
 
 ### 🔹 Ana Sayfa & Kalori Takibi  
-<img src="screenshots/home_meal.png" width="250"/>  
-<img src="screenshots/add_meal.png" width="250"/>  
+<div align="center">
+  <img src="screenshots/home_meal.png" width="250"/>
+  <img src="screenshots/add_meal.png" width="250"/>
+</div>
+
+---
 
 ### 🔹 Egzersiz & Su Tüketimi  
-<img src="screenshots/home_exercises.png" width="250"/>  
-<img src="screenshots/exercise_detail.png" width="250"/>  
-<img src="screenshots/water.png" width="250"/>  
+<div align="center">
+  <img src="screenshots/home_exercises.png" width="250"/>
+  <img src="screenshots/exercise_detail.png" width="250"/>
+</div>  
+<br>
+
+<div align="center">
+  <img src="screenshots/water.png" width="250"/>
+</div>
 
 
 ## 🚀 Özellikler
